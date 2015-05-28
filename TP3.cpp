@@ -1,7 +1,7 @@
 /* TP # 3 - Estructuras de Control
 TOMAS AUGUSTO SCHMID
 última modificación: 28/05/2015
-Esta hecho para que se respondan sólo 2 preguntas. Puede ser 1 de cada categoría.
+Esta hecho para que se respondan sólo 2 preguntas. Puede ser 1 de cada categoría o 2 de la misma.
 */
 
 #include <iostream>
